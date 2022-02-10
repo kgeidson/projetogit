@@ -1,6 +1,8 @@
 console.log("Hello Word !!!")
 
-var num1 = 5;
+var num1 = 6;
 var num2 = 8;
 
-console.log(num1 + num2);
+var soma = num1 + num2
+
+console.log(soma);
