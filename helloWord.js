@@ -1,4 +1,10 @@
-console.log("Hello Word !!!")
+function msg(){
+    return console.log("Hello Word !!!")
+}
+
+msg();
+//--------------
+
 
 var num1 = 6;
 var num2 = 8;
